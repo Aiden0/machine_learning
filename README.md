@@ -1,2 +1,6 @@
 # machine_learning
-Self learning some machine learning algorithms
+Some common machine learning algoirthms 
+
+For Docker
+docker-compose build
+docker-compose up
