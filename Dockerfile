@@ -17,7 +17,7 @@ RUN jupyter contrib nbextension install --system
 RUN jupyter nbextension enable toc2/main
 
 RUN jupyter nbextension enable spellchecker/main
-RUN jupyter nbextension enable --py widgetsnbextension
+RUN jupyter nbextension enable --py --sys-prefix widgetsnbextension
 
 USER jovyan
 
