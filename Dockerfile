@@ -10,7 +10,6 @@ RUN jupyter nbextension enable toc2/main
 RUN jupyter nbextension enable spellchecker/main
 RUN jupyter nbextension enable --py widgetsnbextension --sys-prefix
 
-
 USER jovyan
 
 ENV PYTHONPATH $PYTHONPATH:/home/jovyan/work
