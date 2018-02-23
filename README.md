@@ -1,5 +1,9 @@
 # Machine Learning
-Some common machine learning algoirthms. 
+This is a folder filled with Jupyter notebooks of common machine learning techniques with examples. The table of contents are down below:
+
+##Table of contents
+
+* [Classfication](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/1_Classification.ipynb)
 
 # How to view
 You can view my notebooks in the machine learning notebook folder.
