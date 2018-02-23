@@ -1,7 +1,7 @@
 # Machine Learning
 This is a folder filled with Jupyter notebooks of common machine learning techniques with examples. The table of contents are down below:
 
-##Table of contents
+## Table of contents
 
 * [Classfication](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/1_Classification.ipynb)
 
