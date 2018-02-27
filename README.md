@@ -5,12 +5,12 @@ This is a folder filled with Jupyter notebooks of common machine learning techni
 
 * [1D Classfication](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/1_Classification.ipynb)
 * [Regression and Overfitting](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/2_Regression_and_overfitting.ipynb)
-* Multiple dimensional Classification(Multivariate Gaussian)
-* Kernal density estimates
+* [Multiple dimensional Classification(Multivariate Gaussian)](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/3_Multivariate_classification.ipynb)
+* [Kernal density estimates](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/4_Kernel_density_estimates.ipynb)
 * Mixture models?
-* Clustering (Meanshift,Kmean)
-* Dimensionality Reduction (PCA,LDA,)
-* Nerual networks
+* [Clustering (Meanshift,Kmean)](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/5_Clustering.ipynb)
+* [Dimensionality Reduction (PCA,LDA,)](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/6_%20Dimensionality_Reduction.ipynb)
+* [Nerual networks](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/7_Neural_networks.ipynb)
 
 
 # How to view
