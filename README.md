@@ -5,7 +5,7 @@ This is a folder filled with Jupyter notebooks of common machine learning techni
 
 * [1D Classfication](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/1_Classification.ipynb)
 * [Regression and Overfitting](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/2_Regression_and_overfitting.ipynb)
-* [Multiple dimensional Classification(Multivariate Gaussian)](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/3_Multivariate_classification.ipynb)
+* [Multiple dimensional Classfication/Regression(Multivariate Gaussian)](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/3_Multivariate_Data.ipynb)
 * [Kernal density estimates](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/4_Kernel_density_estimates.ipynb)
 * Mixture models?
 * [Clustering (Meanshift,Kmean)](http://nbviewer.jupyter.org/github/Aiden0/machine_learning/blob/master/Machine%20Learning%20Notebook/5_Clustering.ipynb)
